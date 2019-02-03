@@ -8,5 +8,5 @@ The guides here are meant to help you with navigating the organizational process
 
 This repo is meant as a storehouse of knowledge, so if you see anything you'd like to add on as a fifth-row leader or just anything at all about navigating organizational processes, feel free to submit a pull request!
 
-Just remember to place your markdown files in the appropriate folders.
+Just remember to label your markdown files, etc appropriately.
 
