@@ -61,8 +61,8 @@ Each respective cluster has their own Rep who *will be present at your meeting*,
 They may also help you with:
 
 - Ensuring that all of your paperwork is in order (***CC them in your form submission email***)
-- Knowing what additional material you need for your Pulse Check (a slide deck, a pitch, etc.)
-- Rationalizing any moves you've made in the year. There's always one or two people who will drop bombshells on the meeting with unannounced things that should have long since contacted the Office with. **Don't be that guy.**
+- Knowing what additional material you need for your Pulse Check (**a slide deck, a pitch, etc.**)
+- Rationalizing any moves you've made in the year. There's always one or two people who will drop bombshells on the meeting with unannounced things that they should have long since contacted the Office with. **Don't be that guy.**
 
 ### 3. Know The Vital Details
 
