@@ -10,7 +10,7 @@ For enquiries, contact your cluster rep, or query OSL directly.
 
 And if you do get answers to a question you have which you feel is useful to know in planning an event, feel free to **contribute by submitting Issues or Pull Requests**!
 
-## Table of Contents
+<!--## Table of Contents-->
 
 ## Claim Forms and Purchase Requests
 
