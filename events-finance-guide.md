@@ -4,7 +4,7 @@
 
 > Note: This guide is meant as *a quick-start guide*. It is **not** exhaustive in its coverage, nor is it meant to be.
 
-This guide supplements information found in the 17-page `STUDENT ORGANIATION FINANCE GUIDELINES` prepared by the Office of Student Life (**OSL**), which is quite daunting to look at for new Executive Committee (Exco) members.
+This guide supplements information found in the 17-page `STUDENT ORGANIATION FINANCE GUIDELINES` prepared by the Office of Student Life (**OSL**), which can be quite daunting to look at for new Executive Committee (Exco) members.
 
 For enquiries, contact your cluster rep, or query OSL directly.
 
