@@ -1,6 +1,6 @@
-### SOAR Presidents' Guide and SOP
+# SOAR Presidents' Guide and SOP
 
-##### Introduction
+## Introduction
 
 This guide serves as a living document to all current and future presidents of the SUTD Organization of Autonomous Robotics (as it is known as of 2018), or should any future SUTD robotics organization surface in it's place. This document will attempt to outline the SOAR president's roles, responsibilities, standard operating procedures as well as dispense advice and cautions where applicable. The guide will attempt to generalized where possible but care should be taken to keep this document as up to date as possible - especially when a hand-over of executive committee positions is imminent.
 
@@ -16,7 +16,7 @@ However, due to these challenges, the SOAR president role will allow an individu
 
 It is with this that I encourage any aspiring or selected SOAR president to take on this task with ownership and professionalism - the journey would not be easy but only you can make it worth it.
 
-##### Roles and Responsibilities
+## Roles and Responsibilities
 
 The SOAR president's role and responsibilities can become very fluid - the individual must be able to adapt quickly to changing situations and not be fixated and compartmentalized to his/her own role. This is because of the dynamic environment that SUTD is as well as the wavering and at times unpredictable commitment levels of the SUTD student populace. The SOAR president may well find himself/herself in a situation where:
 
@@ -33,7 +33,7 @@ So what exactly are the SOAR president's roles and responsibilities then? In a b
 - Ensure efficient operation of the executive committee
 - Secure new opportunities for the club and ensure that these opportunities are fulfilled to the requirements set by the stakeholders
 
-###### Dictate Club Direction
+### Dictate Club Direction
 
 The SOAR president is in many ways, the primary custodian for the club. Alumni and Faculty may offer their advice, but ultimately the power resides in this individual. This means that the SOAR president has an important hand in dictating the direction for the club. As of writing, the club mission can be broken into two parts:
 
@@ -56,7 +56,7 @@ It is self-evident that the overall club-direction allows the president to frame
 
 As an addition to this, the president also guides the club in the right direction - ensuring that activities align with the current club mission. It is important to ensure frequent review to projects as there is a tendency for scope/feature creep to cause a project to develop in a manner counterintuitive to the current industry trend. The president's task is made easier by the presence of a project manager but if said project manager proves ineffective (or perhaps there is a lack of a project manager), the president must be aware that this will become a priority concern. Poorly guided projects will result in a slow and unnoticed alteration to the club direction. If allowed to fester, it could result in the club completely misalign with the current industry trends or appetite - which is counterproductive to the mission of a university level robotics club.
 
-###### Ensure Efficient Operation of the Executive Committee (EXCO)
+### Ensure Efficient Operation of the Executive Committee (EXCO)
 
 The president is both the head of SOAR as well as the head of the EXCO. In many ways, the efficiency of the EXCO dictates the efficiency of the club. The club cannot expect to achieve great things if it has improper leadership - or worse, inability to conduct day-to-day operations (such as finances and basic administrative tasks). This puts the president at a position where he/she is expected to ensure the EXCO operates at peak efficiency. The workflow of an EXCO varies from team to team but the president is expected to implement the following basic systems for the operation of the EXCO:
 
@@ -73,7 +73,7 @@ It is exactly the need for efficient operation that the selection of the EXCO us
 
 The efficiency of the EXCO cannot be underscored - many clubs have went under or became a shadow of their former selves due to inefficient and ineffective leadership. It is imperative that an effective EXCO be formed before actual hand-over concludes - lest they might undo years of work.
 
-##### The SOAR EXCO Team
+## The SOAR EXCO Team
 
 As of the 2018 SOAR EXCO batch, the current team positions are outlined below:
 
@@ -86,7 +86,7 @@ As of the 2018 SOAR EXCO batch, the current team positions are outlined below:
 - Extra Committee Roles (these roles are generic and are given on a case-by-case basis - has to be justified to OSL):
   - Club Advisor: Seniors, Alumni who are actively involved in EXCO proceedings
 
-##### EXCO Position Pre-requisites
+### EXCO Position Pre-requisites
 
 With the exception of the president, the main requirements for the SOAR EXCO members are the following:
 
@@ -106,7 +106,7 @@ With regards to the president however, there are additional requirements:
 
 In the worst case scenario, the president might be expected to run the club with an incomplete EXCO team. During such cases, the president will be expected to be able to take over these roles as necessary.
 
-##### Dealing with Ineffective Executive Committee members
+## Dealing with Ineffective Executive Committee members
 
 As an aside, one might wonder how to deal with ineffective EXCO members. In nearly all cases, the individual should already have been flagged during the OJT phase and can consequently be removed from the hand-over take-over (HOTO) process. During which, an alternative candidate should be sourced quickly. Once the alternative candidate has proven his or her worth, a separate HOTO form for that candidate can be submitted at a later date.
 
@@ -122,7 +122,7 @@ It is best to speak to the individual only after enough evidence has been gather
 - Not being involved in any SOAR project without good reason
 - Failure to conduct duties as an EXCO member due to attitude/aptitude/poor time-management
 
-##### Interacting with Office of Student Life
+## Interacting with Office of Student Life
 
 It is paramount that SOAR presidents understand the importance of favorable interactions with the Office of Student Life (OSL). Even if SOAR is able to proceed without the seed fund, there are many approvals that would require OSL. Keeping OSL in the loop of SOAR proceedings is important as it would allow SOAR to maintain in good standing with OSL and make future approvals smoother. 
 
@@ -132,7 +132,7 @@ The easiest way to keep OSL in the loop is to send monthly emails of progress re
 
 However, it is important to note that while OSL might be kept in the loop, they are not obligated (and more specifically, tend to not) offer any advice on proceedings. It is important to be proactive and reach out to OSL for clarifications as they are unlikely to intervene in club proceedings even when they are supposedly kept "in the loop". Additionally, OSL is often privy to the actual approval processes that root oversees. It is advisable to conduct OSL before submitting approvals to ROOT so as to gain an understanding of the approval process and requirements. In the worst case scenario, using OSL's emails could be a way to inform an inexperienced ROOT member on what their roles and responsibilities actually are - in the event that they are unaware of them. 
 
-##### Interacting with the Club Professor
+## Interacting with the Club Professor
 
 As of writing (2018), the club Professor for SOAR is Professor U-Xuan. He is a busy person and would likely be hard to contact via email. If one is to send an email to him, make sure to mark it as high priority. Resend the email as necessary to ensure that he has read it - he has mentioned on multiple occasions that he does not mind. Additionally, he is significantly more responsive on whatsapp, though he will cease all communications during the weekend. Unless he directly contacts another EXCO member, only the club president should be contacting him. This is to prevent unnecessary repeat texts that might cause him to ignore future messages. Successive SOAR presidents are strongly encouraged to request for his phone number from the previous president or from Professor U-Xuan himself.
 
@@ -142,11 +142,10 @@ As of 2019, Professor U-Xuan requires meetings less frequently as the monthly pr
 
 Additionally, Professor U-Xuan is now involved in finding more opportunities for the club to grow - which include industry projects that utilize ROS. The president should be ready for him at any time as his correspondence is much more sporadic.
 
-##### Interacting with ROOT
+## Interacting with ROOT
 
 Interacting with the student government (ROOT) requires preparation. While ROOT is ostensibly the custodian of student matters, it is unlikely that they will provide valid advisory on aforementioned matters. The EXCO is recommended to do prior research on the formal processes required to attain the necessary approvals before interacting with ROOT. This would minimize miscommunication and misdirection on part of the ROOT point-of-contact a they are often poorly equipped to deal with the matter at hand. 
 
-Without necessary preparation, the ROOT POC would shuttle the request across various ROOT departments as well as potentially redirecting the request to OSL, all without noticeable progress. 
+Without necessary preparation, the ROOT POC would shuttle the request across various ROOT departments as well as potentially redirecting the request to OSL, all without noticeable progress.
 
 It is highly recommended that in most situations, the SOAR EXCO team should seek advice from OSL before dealing with ROOT. 
-
