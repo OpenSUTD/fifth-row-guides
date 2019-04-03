@@ -10,7 +10,7 @@ This repo is meant as a storehouse of knowledge, so if you see anything you'd li
 
 Just remember to label your markdown files, etc appropriately.
 
-# Contributing to this Repository
+# Contributing to this Repository (As an OpenSUTD member)
 
 For reference, all files should be named according to their purpose. This is to ensure that indexing (by the machine) causes all similar topics to end up in the same chunk:
 
@@ -21,3 +21,7 @@ Hence for a file, say, for claims under $300 dollars from an income account, you
 `claims-under-300-dollars-from-club-income`.
 
 If a topic exists that's close enough, **don't** create a new file. Make changes and **submit a pull request instead.**
+
+# Contributing as an external party (Everyone not on the OpenSUTD maintainer team):
+
+Please **FORK** the repository, follow the instructions above, and then submit a pull request to this main repository.
