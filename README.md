@@ -24,4 +24,4 @@ If a topic exists that's close enough, **don't** create a new file. Make changes
 
 ## Contributing as an external party (Non-OpenSUTD maintainer team)
 
-Navigate to the `for-review` branch of this repository and submit your files/edit files and submit a pull request!
+Navigate to the [**`for-review`**](https://github.com/OpenSUTD/fifth-row-guides/tree/for-review) branch of this repository and submit your files/edit files and submit a pull request!
