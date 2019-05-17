@@ -1,6 +1,6 @@
-<h1>Club Finances 101: Finances</h1>
+# Club Finances 101: Absolute Basics
 
-<h3>Introduction</h3>
+## Introduction
 
 ---
 
