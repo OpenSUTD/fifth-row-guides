@@ -12,22 +12,22 @@ LAST UPDATED: 160519
 
 This is a guide for club committee members who need a safe storage space for their valuable club items. The space discussed in this guide is the **Student Activity Centre (SAC)**, located at Building 5 level 4.
 
-As mentioned, this *Storage Space* is not meant to be a **DUMP** of club items, but a **safekeep** of **valuable** club items. Do note that for any item in the inventory list, the `maker rep` has the right to reject the storage of the item if he deems so. More details in the [FAQ](#FAQs).
+As mentioned, this *Storage Space* is not meant to be a **DUMP** of club items, but a **safekeep** of **valuable** club items. Do note that for any item in the inventory list, the `maker rep` has the right to reject the storage of the item if he deems so. More details in the [FAQ](#faqs).
 
 ## Process
 
 1. Request for an inventory form from maker representative (`makers@rep.sutd.edu.sg`)
 
-   The inventory form is discussed in detail below [here](#Form Details).
+   The inventory form is discussed in detail below [here](#Form-Details).
 
 2. Fill the form up with the relevant details. For items with no exact detail (For instance date, price), provide an estimation (basically an educated guess).
-   Please refer to the form details section for any form queries [here](#Form Details).
+   Please refer to the form details section for any form queries [here](#Form-Details).
 
-3. Submit the form back via the maker representative email. The email should also include the following details which are discussed [here](#Email Details).
+3. Submit the form back via the maker representative email. The email should also include the following details which are discussed [here](#Email-Details).
 
 ## Form Details
 
-![SAC_Inventory_List](../Resources/SAC_Inventory_List.png)
+![SAC Inventory List](../assets/How-To-Request-For-SAC-Inventory-Storage-Space/SAC_Inventory_List.png)
 
 The column descriptions are as follows:
 
@@ -50,11 +50,11 @@ The column descriptions are as follows:
 
 ## Email Details
 
-- Inventory list: The form that you have *tediously* filled in step 2 [here](#Process)
+- Inventory list: The form that you have *tediously* filled in step 2 [here](#process)
 
 
-- Estimated Space Request: Make an estimation based on the size of items to be stored. Please refer to the following image for an example:
-  ![Request_For_SACSpace_Example_Email](../Resources/Request_For_SACSpace_Example_Email.png)
+- Estimated Space Request: Make an estimation based on the size of items to be stored. Please refer to the following image for an example: <br/>
+  ![Request_For_SACSpace_Example_Email](../assets/How-To-Request-For-SAC-Inventory-Storage-Space/Request_For_SACSpace_Example_Email.png)
   - Include desired room storage location (if applicable)
   - Include any shelf space (if applicable)
   - Seek for further advise or any clarifications
@@ -63,13 +63,13 @@ The column descriptions are as follows:
 
 ## FAQs
 
-1. **My item is rejected! Why?**
+1. **My item is rejected! Why?** <br/>
    The acceptance or rejection of the storage of the item is decided by the `maker rep` and this could be attributed to the following reasons:
    - Item is hazardous (LiPo batteries - bloated with no proper LiPo carrier bags, highly flammable items, etc.). The storage space houses the valuable items of many other clubs and the safety of the items from other clubs must be respected as well.
    - Item is a personal item and **NOT** a club collective usage product. 
      If it is not clear enough, the storage space is for the use of **STORING** club items, and should not be abused to store individual / personal item(s). 
      **UNLESS** the said item(s) is usable by students who visit the SAC (Eg. 3D printer).
-2. **My inventory list is not being entertained! Why?**
+2. **My inventory list is not being entertained! Why?** <br/>
    This could be due to multiple reasons as discussed below:
    - `Maker rep` is a very busy person and he may have overlooked the email. Please understand that he is still a `human being` and some leeway and understanding should be given. 
      Dropping him or her a reminder email, or if you know him or her personally, a text or a face to face friendly reminder would suffice!
