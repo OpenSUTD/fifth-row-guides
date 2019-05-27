@@ -167,7 +167,49 @@ The student claim form, once you've been issued with it, has a list of details t
 
 > Note: OSL opens accounts for claims, so if the same person buys different items on different dates, the items can be placed in the same claim form, but **different** PRFs/PAFs are needed depending on what the purpose of the purchase is.
 
-<!-- MORE TO COME HERE-->
+### Purchases between $300 and $1000: Purchase Award Form
+
+For all purchases above the value of \$300, the Purchase Award Form (PAF) is the key concern.
+
+In this case, a similar process applies as in the [sub-\$300 category:](#purchases-below-300-purchase-request-form)
+
+1. The Purchaser wants to buy, say, item _X_.
+2. Get **at least 3 quotations** from different suppliers for item _X_ that are **substitutable**. For a quick-start guide on how to format the quotations, [click here.](#quotations-how-to)
+
+> Note: "substitutable" means that the quotation is for the same amount of goods for the same use - it need not be exact same item, per se, but it must cover the exact same use-cases. It should ideally be _apples-to-apples_.
+
+3. Fill out the Purchase Award Form with the following details:
+   1. Student Organisation
+   2. Name of Project/Purchase
+   3. Purchase Information (Item, quantity, reason for purchase, quoted cost)
+   4. Prepared By (Purchaser)
+4. Attach your quotations by printing out either the email in which you are quoted or the screenshot of your shopping cart on an e-commerce site.
+5. Submit your PAF to your treasurer. They need to fill out the following fields and approve your PAF:
+
+   1. Project Code
+   2. Approved-by (Note that the same caveat for Treasurer-Purchasers in the PRF applies)
+   3. Fund to be claimed from
+   4. Balance in the above fund at time of signature
+   5. Evaluation Conducted by:
+
+      > Note that this field can either be done by the treasurer OR the purchaser
+
+   6. Name of recommended vendor and reason for choice
+
+#### Quotations: How-to
+
+No matter what kind of quotation you have, submitting them requires you to either save them as a PDF or print them out fully to submit with your PAF. They must also have:
+
+1. The logo/name of your shopping platform/supplier (so if you're getting from Taobao you need the taobao logo at the top of the page)
+2. The sum total of the shipping fees/handling fees
+3. The cost of each individual item
+
+> Note: If you are getting your quotation through an e-commerce shop, you proceed with the purchase shopping cart **up until the point** where you are about to pay with your credit-card information, etc.
+> Then you save the page.
+
+Note: Waivers of quotations **should never happen** unless there is only a single distributor of this item in Singapore / or is sole patented.
+
+<!-- MORE TO COME HERE --->
 
 <b>For purchases above $300 but below $1000 </b>
 
@@ -204,27 +246,7 @@ Parts of form to be completed by relevant parties in the Purchase Award Form and
 
 Tip: As OSL Seed Fund will not be offset to the next year, it is recommended to finish the OSL Seed Funds before using the club income funds.
 
-2. Person proceeds to purchase the items approved by Treasurer/President. Person has to obtain the:
-
-- Physical Receipt - paste it on an A4 size blank paper by either 1) Taping the corners of the receipt to the A4 blank paper OR 2) Gluing the receipt to the A4 blank paper (recommended)
-- Online Receipts/ Invoices
-  - Local purchases - Obtain the invoices/receipts and print them out - full sized A4 image. One invoice per page (can be double sided)
-    - Things to look out for:
-      - Company stamp
-      - Information on purchase
-      - Date of purchase
-  - Overseas purchases (Non-taobao) - Obtain the invoices/receipts and print them out - full sized A4 image. One invoice per page (can be double sided) + Oanda Screenshot from https://www.oanda.com/currency/converter/ of currency converted at date of purchase/ invoice.
-  - Overseas purchases (Taobao) - Obtain the screenshot of the individual purchases in the Alipay under MyTaobao in the menubar. As the delivery fees are a separate payment date from the main purchases, there will be a need for another Purchase Request Form just for the delivery fees. Refer to point 1 for how to fill in the Purchase Request Form. In addition, the Oanda Screenshot from https://www.oanda.com/currency/converter/ of currency converted at date of purchase/ invoice is also required. Print the different documents out, one invoice per page, making sure that the screenshots are large enough to be seen clearly
-- Bank Transaction History (if applicable)
-  - For this section, you will need to do a print page to PDF format OR an electronic Bank Statement. Only these details are required - Bank account details, Transaction showing amount deducted from your bank account, the Bank logo, name of Bank account holder. Once all these are present, ensure that the document is large enough (i.e. should be A4 size since its PDF) to be readable before printing it.
-  - Things to check off:
-    - Bank account number
-    - Purchase date
-    - Purchase description
-    - Money deducted
-      Tip: There is probably a print button somewhere in the bank transaction history for you to print the page into a PDF.
-
-3. Person proceeds to fill up the claim form as follows:
+1. Person proceeds to fill up the claim form as follows:
 
 - Claim form details to check off:
   - Check off for details to be filled in:
