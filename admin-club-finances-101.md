@@ -15,8 +15,8 @@ Last Updated 12/7/2019.
   - [Table of Contents](#Table-of-Contents)
   - [Introduction](#Introduction)
   - [Income / Deposits](#Income--Deposits)
-    - [Collecting Cash as income](#Collecting-Cash-as-income)
-    - [Income deposits from sponsorship/donation](#Income-deposits-from-sponsorshipdonation)
+    - [Collecting Cash as Income](#Collecting-Cash-as-Income)
+    - [Income Deposits from Sponsorship/Donation](#Income-Deposits-from-SponsorshipDonation)
   - [Student Claims and Purchase Requests](#Student-Claims-and-Purchase-Requests)
     - [Purchases below \$300: Purchase Request Form](#Purchases-below-300-Purchase-Request-Form)
     - [TLDR: Purchase Request Form](#TLDR-Purchase-Request-Form)
@@ -55,7 +55,7 @@ If you have doubts or enquiries about club finances, you should contact your **c
 
 ---
 
-### Collecting Cash as income
+### Collecting Cash as Income
 
 Generally, for any cash collection, you will _need_ a receipt book. The process is outlined below:
 
@@ -67,7 +67,7 @@ Generally, for any cash collection, you will _need_ a receipt book. The process 
    - **Receipt Book**
    - Your **cash** to be deposited as income
 
-### Income deposits from sponsorship/donation
+### Income Deposits from Sponsorship/Donation
 
 Seek approval from OSL **_in writing_** before you approach a company for sponsorship. Generally, this process also has a few additional requirements, which you must submit **well before (3 months)** the start of the event:
 
@@ -78,7 +78,7 @@ Seek approval from OSL **_in writing_** before you approach a company for sponso
 
 Once you contact the company and get officially sponsored, _pass the cheque_ you receive to OSL along with your filled-out Income Deposit Form.
 
-PLEASE NOTE: You DO NOT need to fill in the following sections:
+> **PLEASE NOTE**: You _do not_ need to fill in the following sections:
 
 - Deposit code
 - Additional attachments portion
