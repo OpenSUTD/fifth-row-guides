@@ -2,9 +2,42 @@
 Club Finance Guide:
 Original by @Etzernal in Apr 2019
 Edited by @piroton for OpenSUTD May 2019
+Last Edited: 2019-07-12
  -->
 
 # Club Finances 101: Absolute Basics
+
+Last Updated 12/7/2019.
+
+## Table of Contents
+
+- [Club Finances 101: Absolute Basics](#Club-Finances-101-Absolute-Basics)
+  - [Table of Contents](#Table-of-Contents)
+  - [Introduction](#Introduction)
+  - [Income / Deposits](#Income--Deposits)
+    - [Collecting Cash as income](#Collecting-Cash-as-income)
+    - [Income deposits from sponsorship/donation](#Income-deposits-from-sponsorshipdonation)
+  - [Student Claims and Purchase Requests](#Student-Claims-and-Purchase-Requests)
+    - [Purchases below \$300: Purchase Request Form](#Purchases-below-300-Purchase-Request-Form)
+    - [TLDR: Purchase Request Form](#TLDR-Purchase-Request-Form)
+    - [Notes on Proof-of-Purchase](#Notes-on-Proof-of-Purchase)
+      - [Local Shop/Supplier](#Local-ShopSupplier)
+      - [Online Supplier (Taobao, AliExpress)](#Online-Supplier-Taobao-AliExpress)
+      - [Online Supplier (Non-Taobao, Non-AliExpress)](#Online-Supplier-Non-Taobao-Non-AliExpress)
+    - [TLDR: Student Claim Form](#TLDR-Student-Claim-Form)
+    - [Purchases between $300 and $1000: Purchase Award Form](#Purchases-between-300-and-1000-Purchase-Award-Form)
+    - [TLDR: Purchase Award Form](#TLDR-Purchase-Award-Form)
+      - [Quotations: How-to](#Quotations-How-to)
+    - [Purchases above \$1000: Approval](#Purchases-above-1000-Approval)
+  - [Maintaining A Transaction Register](#Maintaining-A-Transaction-Register)
+    - [Labelling Entries In the Register](#Labelling-Entries-In-the-Register)
+      - [Claims / Income - Transaction Register](#Claims--Income---Transaction-Register)
+    - [Recording Claims and Income Values](#Recording-Claims-and-Income-Values)
+      - [Claims & GST](#Claims--GST)
+      - [Income Collection & Entries](#Income-Collection--Entries)
+  - [Queries and Q&A](#Queries-and-QA)
+  - [Budgeting & Finance for Pulse Check](#Budgeting--Finance-for-Pulse-Check)
+  - [Credits and Acknowledgements](#Credits-and-Acknowledgements)
 
 ## Introduction
 
@@ -146,6 +179,12 @@ Wherever possible, obtain an official receipt or purchase document that can evid
 3. Date of Purchase
 4. Invoice Reference Number
 
+> Go to the shopping cart and go to the purchase page UNTIL right before you reach the page where you need to key in your credit/debit card information. This page should have these:
+>
+> 1. The logo/name of the shopping platform clearly shown
+> 2. Shipping fees
+> 3. Item Purchase cost
+
 Where not possible, find some other proof of purchase, like the order listing from Amazon, or the e-mail confirmation of payment. Remember to ensure that the text is large enough to be _read easily._
 
 > Note: There is often a print button for a purchase confirmation page, so you can easily print to PDF and save the file on your computer for printing later.
@@ -154,16 +193,16 @@ Where not possible, find some other proof of purchase, like the order listing fr
 
 The student claim form, once you've been issued with it, has a list of details to check off before you hand it in for a claim:
 
-- Name: Is this the person getting the money back?
-- ID: Does this match the student ID of the Name?
-- Organisation: Is this your club's name?
-- Purpose: Does this tally with your PRF?
-- Purchase Information:
+- **Name**: Is this the person getting the money back?
+- **ID**: Does this match the student ID of the Name?
+- **Organisation**: Is this your club's name?
+- **Purpose**: Does this tally with your PRF?
+- **Purchase** Information:
   1. Did you remember to itemize individual purchase bundles?
-  2. Did you remember to take out GST for GST items?
-  3. Did you remember to put in the receipt numbers?
-- Declaration: Are you sure all the fields are correct? Sign off.
-- Verification: Did the person in charge sign off?
+  2. Did you remember to take out **GST** for GST items?
+  3. Did you remember to put in the **receipt numbers**?
+- **Declaration**: Are you sure all the fields are correct? Sign off.
+- **Verification**: Did the person in charge sign off?
 
 > Note: OSL opens accounts for claims, so if the same person buys different items on different dates, the items can be placed in the same claim form, but **different** PRFs/PAFs are needed depending on what the purpose of the purchase is.
 
@@ -171,13 +210,13 @@ The student claim form, once you've been issued with it, has a list of details t
 
 For all purchases above the value of \$300, the Purchase Award Form (PAF) is the key concern.
 
+> As with the PRF, if the Treasurer is purchasing, the President has to approve.
+
 In this case, a similar process applies as in the [sub-\$300 category:](#purchases-below-300-purchase-request-form)
 
 1. The Purchaser wants to buy, say, item _X_.
 2. Get **at least 3 quotations** from different suppliers for item _X_ that are **substitutable**. For a quick-start guide on how to format the quotations, [click here.](#quotations-how-to)
-
-> Note: "substitutable" means that the quotation is for the same amount of goods for the same use - it need not be exact same item, per se, but it must cover the exact same use-cases. It should ideally be _apples-to-apples_.
-
+   > Note: "substitutable" means that the quotation is for the same amount of goods for the same use - it need not be exact same item, per se, but it must cover the exact same use-cases. It should ideally be _apples-to-apples_.
 3. Fill out the Purchase Award Form with the following details:
    1. Student Organisation
    2. Name of Project/Purchase
@@ -185,16 +224,28 @@ In this case, a similar process applies as in the [sub-\$300 category:](#purchas
    4. Prepared By (Purchaser)
 4. Attach your quotations by printing out either the email in which you are quoted or the screenshot of your shopping cart on an e-commerce site.
 5. Submit your PAF to your treasurer. They need to fill out the following fields and approve your PAF:
-
    1. Project Code
    2. Approved-by (Note that the same caveat for Treasurer-Purchasers in the PRF applies)
    3. Fund to be claimed from
    4. Balance in the above fund at time of signature
    5. Evaluation Conducted by:
-
       > Note that this field can either be done by the treasurer OR the purchaser
-
    6. Name of recommended vendor and reason for choice
+
+### TLDR: Purchase Award Form
+
+The use of the Purchase Award Form is handily summarized here:
+
+| Field                                      | Person              | Dependency                     | Sample Entry | Notes                                                                |
+| ------------------------------------------ | ------------------- | ------------------------------ | ------------ | -------------------------------------------------------------------- |
+| Project Code                               | Treasurer           | -                              | SLCLUB001    | Your club's account code                                             |
+| Student Organisation                       | Purchaser           | -                              | SUTD Club    | Your club's name                                                     |
+| Name of Project/Purchase                   | Purchaser           | -                              | Project X    | The name of the event/reason you're purchasing                       |
+| Purchase Information                       | Purchaser           | Quotations                     | -            | Put in the name of your item, and the quotation prices you received. |
+| Approved By                                | Treasurer/President | Fund must have enough          | -            | The approving personnel                                              |
+| Fund to be claimed from                    | Treasurer           | Fund must have enough          | -            | This is the club account that is being claimed from                  |
+| Balance in above fund at time of signature | Treasurer           | Fund must have enough          | -            | This should cover your costs.                                        |
+| 3 Quotations                               | Purchaser           | Must be from different sources | -            | [Your quotations](#quotations-how-to)                                |
 
 #### Quotations: How-to
 
@@ -207,145 +258,76 @@ No matter what kind of quotation you have, submitting them requires you to eithe
 > Note: If you are getting your quotation through an e-commerce shop, you proceed with the purchase shopping cart **up until the point** where you are about to pay with your credit-card information, etc.
 > Then you save the page.
 
-Note: Waivers of quotations **should never happen** unless there is only a single distributor of this item in Singapore / or is sole patented.
+Waivers of quotations **should never happen** unless there is only a single distributor of this item in Singapore / or under a sole patent. If you Google whatever you are purchasing and there are other vendors selling the product that are accessible locally, your item does not fall in this category.
 
-<!-- MORE TO COME HERE --->
+For foreign currency purchases, you will need a screenshot of the currency conversion from [Oanda](https://www.oanda.com/currency/converter/) for **each** vendor that you purchase items from.
 
-<b>For purchases above $300 but below $1000 </b>
+> Note: Different users selling on Taobao count as _separate sellers_.
 
-1. Person purchasing the items has to submit a Purchase Award Form to the Treasurer for approval. In the event that the Treasurer is the one doing the purchase, President will take over as the authority for approval.
+### Purchases above \$1000: Approval
 
-Filling in of the purchase request form - date of signature has to be before the date of purchase. i.e. Approval has to be given by two EXCO members, i.e. Treasurer and President OR Vice President and President if Treasurer is the one making the purchases. This is before any purchases can proceed.
+For purchases that exceed \$1000 dollars in price, you will need to get **written approval** from the Office of Student Life before you make your purchase. Otherwise, you fill in both the [Purchase Award Form](#TLDR-Purchase-Award-Form) and the [Claim Form](#TLDR-Student-Claim-Form) accordingly.
 
-Parts of form to be completed by relevant parties in the Purchase Award Form and eventually submitted to OSL:
+## Maintaining A Transaction Register
 
-- Project Code (By Treasurer)
-- Student organisation (By person purchasing)
-- Name of project/purchase (By person purchasing)
-- Purchase information (By person purchasing)
-- Prepared by (By person purchasing) \*\* Date to be before purchase date
-- Approved by (By Treasurer/President/Vice President) \*\* Date to be before purchase date
-- Fund to be claimed from: OSL Seed Fund (Income provided by school every year for fifth rows), Income (Income from income/deposits) (By Treasurer)
-- Balance in the above fund as at date of signature (By Treasurer - check transaction register)
-- 3 Quotations (Refer to elaboration below)
-  1a) Email quotations
-  - Email 3 different vendors (of course inclusive of the vendor that you are going to buy from) and obtain email quotations from them. Then print the email into a PDF and print them out, attaching them to the Purchase Award Form
-    1b) Quotations from shopping platforms
-  - Obtain the prices from three different shopping platforms by adding the items and quantity you want into the shopping cart.
-  - Go to the shopping cart and go to the purchase page UNTIL right before you reach the page where you need to key in your credit/debit card information. This page should have these:
-    - The logo/name of the shopping platform clearly shown
-    - Shipping fees
-    - Item Purchase cost
-  - Print the page into a PDF and print them out, attaching them to the Purchase Award Form
-  - Some common shopping platforms: Amazon, Ebay, Taobao, Aliexpress, Banggood etc.
-- NOTE: Waiver of quotation almost never applies unless it is a company that has patented the product which prevents reselling and they are the only source of that particular product. If you Google whatever you are purchasing and there are other vendors selling the product, your item does not fall in this category.
-- Currency Conversion (for overseas purchases)
-  - the Oanda Screenshot from https://www.oanda.com/currency/converter/ for EACH vendor that you are purchasing your items from. i.e. you should have 3 screenshots in total for 3 vendors(if they are all vendors with overseas currency)
-- Evaluation Conducted by - the person purchasing/Treasurer
-- Name of recommended vendor and reason - fill in valid reasons for the recommended vendor chosen.
+The transaction register is basically your club's entire financial records. It's important because it tells you (and the people after you) where all the money you spent went! This is also vital to ensure that both you and the school know that all the money you spent is going the right way.
 
-Tip: As OSL Seed Fund will not be offset to the next year, it is recommended to finish the OSL Seed Funds before using the club income funds.
+You, current President/Exco/Treasurer, might know right now, but you can't guarantee that all of your juniors will know! Hence: **Record-keeping**.
 
-1. Person proceeds to fill up the claim form as follows:
+### Labelling Entries In the Register
 
-- Claim form details to check off:
-  - Check off for details to be filled in:
-    - Student name
-    - Student ID
-    - Student Organisation
-    - Purpose
-    - Purchase information
-    - Declaration by student - Claimant
-    - Verified by Treasurer of Student Organisation - Treasurer or President.
-      NOTE: OSL opens an account for claims, so if the same person is buying different items on DIFFERENT dates, the items can be placed in the same claim forms BUT multiple Purchase Request Forms/Purchase Award Forms will be required depending the nature of each purchase.
+The entry format for the transaction register differs based on which type of entry it is, but you reset the serial number count at the start of each new Financial Year, which is in May.
 
-<b>For purchases above \$1000</b>
+May 2019 marks the start of Financial Year 2019, not 2020!
 
-1. Person purchasing the items has to submit a Purchase Award Form to the Treasurer for approval. In the event that the Treasurer is the one doing the purchase, President will take over as the authority for approval.
+#### Claims / Income - Transaction Register
 
-Filling in of the purchase request form - date of signature has to be before the date of purchase. i.e. Approval has to be given by two EXCO members, i.e. Treasurer and President OR Vice President and President if Treasurer is the one making the purchases. This is before any purchases can proceed.
+> `[SCF/INC]-{YY}-{CLUBNUMBER}-{XXXX}`
 
-Parts of form to be completed by relevant parties in the Purchase Award Form and SUBMITTED to OSL for Approval:
+Where the format can be broken down thus:
 
-- Project Code (By Treasurer)
-- Student organisation (By person purchasing)
-- Name of project/purchase (By person purchasing)
-- Purchase information (By person purchasing)
-- Prepared by (By person purchasing) \*\* Date to be before purchase date
-- Approved by (By Treasurer/President/Vice President) \*\* Date to be before purchase date
-- Fund to be claimed from: OSL Seed Fund (Income provided by school every year for fifth rows), Income (Income from income/deposits) (By Treasurer)
-- Balance in the above fund as at date of signature (By Treasurer - check transaction register)
-- 3 Quotations (Refer to elaboration below)
-  1a) Email quotations
-  - Email 3 different vendors (of course inclusive of the vendor that you are going to buy from) and obtain email quotations from them. Then print the email into a PDF and print them out, attaching them to the Purchase Award Form
-    1b) Quotations from shopping platforms
-  - Obtain the prices from three different shopping platforms by adding the items and quantity you want into the shopping cart.
-  - Go to the shopping cart and go to the purchase page UNTIL right before you reach the page where you need to key in your credit/debit card information. This page should have these:
-    - The logo/name of the shopping platform clearly shown
-    - Shipping fees
-    - Item Purchase cost
-  - Print the page into a PDF and print them out, attaching them to the Purchase Award Form
-  - Some common shopping platforms: Amazon, Ebay, Taobao, Aliexpress, Banggood etc.
-- NOTE: Waiver of quotation almost never applies unless it is a company that has patented the product which prevents reselling and they are the only source of that particular product. If you Google whatever you are purchasing and there are other vendors selling the product, your item does not fall in this category.
-- Currency Conversion (for overseas purchases)
-  - the Oanda Screenshot from https://www.oanda.com/currency/converter/ for EACH vendor that you are purchasing your items from. i.e. you should have 3 screenshots in total for 3 vendors(if they are all vendors with overseas currency)
-- Evaluation Conducted by - the person purchasing/Treasurer
-- Name of recommended vendor and reason - fill in valid reasons for the recommended vendor chosen.
+1. `SCF`: Student Claim Form OR `INC` Income Deposit
+2. `{YY}`: The current Financial Year
+3. `{CLUBNUMBER}`: Your Club's Financial Account Code
+4. `{XXXX}`: The Total number of financial documents you've filed of this type this financial year (i.e. the rolling number)
 
-Tip: As OSL Seed Fund will not be offset to the next year, it is recommended to finish the OSL Seed Funds before using the club income funds.
+So let's say I'm filing a Student Claim entry for a ficticious club with `{CLUBNUMBER}` 000 in the current Financial Year (FY19 at time of writing). Then, if this is the **3rd** form I'm doing this year for claims, the code will be:
 
-2. Only AFTER Approval from OSL, Person proceeds to purchase the items approved by Treasurer/President. Person has to obtain the:
+`SCF-19-000-0003`
 
-- Physical Receipt - paste it on an A4 size blank paper by either 1) Taping the corners of the receipt to the A4 blank paper OR 2) Gluing the receipt to the A4 blank paper (recommended)
-- Online Receipts/ Invoices
-  - Local purchases - Obtain the invoices/receipts and print them out - full sized A4 image. One invoice per page (can be double sided)
-    - Things to look out for:
-      - Company stamp
-      - Information on purchase
-      - Date of purchase
-  - Overseas purchases (Non-taobao) - Obtain the invoices/receipts and print them out - full sized A4 image. One invoice per page (can be double sided) + Oanda Screenshot from https://www.oanda.com/currency/converter/ of currency converted at date of purchase/ invoice.
-  - Overseas purchases (Taobao) - Obtain the screenshot of the individual purchases in the Alipay under MyTaobao in the menubar. As the delivery fees are a separate payment date from the main purchases, there will be a need for another Purchase Request Form just for the delivery fees. Refer to point 1 for how to fill in the Purchase Request Form. In addition, the Oanda Screenshot from https://www.oanda.com/currency/converter/ of currency converted at date of purchase/ invoice is also required. Print the different documents out, one invoice per page, making sure that the screenshots are large enough to be seen clearly.
-- Bank Transaction History (if applicable)
-  - For this section, you will need to do a print page to PDF format OR an electronic Bank Statement. Only these details are required - Bank account details, Transaction showing amount deducted from your bank account, the Bank logo, name of Bank account holder. Once all these are present, ensure that the document is large enough (i.e. should be A4 size since its PDF) to be readable before printing it.
-  - Things to check off:
-    - Bank account number
-    - Purchase date
-    - Purchase description
-    - Money deducted
-      Tip: There is probably a print button somewhere in the bank transaction history for you to print the page into a PDF.
+Whereas if I am depositing income from my **first** event of the year for a ficticious club with `{CLUBNUMBER}` 000 in the current Financial Year (FY19 at time of writing), my code would be:
 
-3. Person proceeds to fill up the claim form as follows:
+`INC-19-000-0001`
 
-- Claim form details to check off:
-  - Check off for details to be filled in:
-    - Student name
-    - Student ID
-    - Student Organisation
-    - Purpose
-    - Purchase information
-    - Declaration by student - Claimant
-    - Verified by Treasurer of Student Organisation - Treasurer or President.
-      NOTE: OSL opens an account for claims, so if the same person is buying different items on DIFFERENT dates, the items can be placed in the same claim forms BUT multiple Purchase Request Forms/Purchase Award Forms will be required depending the nature of each purchase.
+### Recording Claims and Income Values
 
-<h3>Managing the transaction register </h3>
+#### Claims & GST
 
----
+OSL is supposed to absorb the GST cost of any purchase you make that is GST-eligible, due to SUTD becoming a GST-registered entity in 2017. As a result, your income/seed funds should be deducted the **GST-FREE** cost - i.e. if your claim is $107, $100 is deducted from whatever fund you claim from instead.
 
-Start from the beginning of Seed Fund opening balance - sort of new financial year (should be around May period)
+> **Caveat:** Note that this does not apply to the legacy income accounts (income earned before 2017). Spend carefully.
 
-Labels for claims - SCF-{YY}-{CLUBNUMBER}-{XXXX}
+If your claim is for an item that is not bought from a GST-registered entity, you should deduct the _full cost_ of the item from your funds.
 
-Labels for income - INC {YY}-{CLUBNUMBER}-{XXXX}
+#### Income Collection & Entries
 
-- where Y refers to the Year and XXXX refers to the number of claim form. i.e. Claim form number 30 will have XXXX as 0030.
+OSL takes out the cost of GST from your income, so all of your income has GST deducted from it before it is put into your account. That means that if you earn $107, your account will be credited $100 - the \$7 goes to the IRAS.
 
-For claims:
+## Queries and Q&A
 
-- OSL absorbs the GST for the club funds, so the income/seed club fund is deducted with GST excluded. i.e. If claim is $107, OSL absorbs GST - $7, \$100 is deducted from whatever fund claimant is claiming from.
+If you have a query, please feel free to raise an issue! Otherwise, contact OSL with your query and submit a pull-request with what they've taught you (or open an issue)
 
-For income:
+## Budgeting & Finance for Pulse Check
 
-- OSL takes GST for income into club funds, so income/seed club fund income after GST is deducted will be deposited into the club income fund. i.e. if income is $107, OSL takes GST - $7, \$100 is deposited into club income fund.
+This will be covered in a separate document. Please check back soon.
+
+## Credits and Acknowledgements
+
+Special thanks to [@Etzernal](github.com/Etzernal) for the orignal version of this guide.
+
+Edited and Cleaned for OpenSUTD by [@piroton](github.com/piroton).
+
+**Other Contributors**
 
 <h3>Handling the Pulse Check Budget Plan</h3>
 
