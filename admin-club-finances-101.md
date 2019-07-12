@@ -323,20 +323,8 @@ This will be covered in a separate document. Please check back soon.
 
 ## Credits and Acknowledgements
 
-Special thanks to [@Etzernal](github.com/Etzernal) for the orignal version of this guide.
+Special thanks to [@Etzernal](https://github.com/Etzernal) for the orignal version of this guide.
 
-Edited and Cleaned for OpenSUTD by [@piroton](github.com/piroton).
+Edited and Cleaned for OpenSUTD by [@piroton](https://github.com/piroton).
 
 **Other Contributors**
-
-<h3>Handling the Pulse Check Budget Plan</h3>
-
----
-
-Budget plan is basically an overview of the plan for the following year - events, workshops, purchases to be made etc. This will be used to pitch to OSL to request for how much seed funds is required for the following year.
-
-<h3>Stakeholders</h3>
-
----
-
-Contact OSL via booking an appointment/email for any enquiries.
